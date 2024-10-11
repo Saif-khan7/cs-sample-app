@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Saif-khan7/cs-sample-app/static/css/main.e6c13ad2.css",
+    "main.js": "/Saif-khan7/cs-sample-app/static/js/main.5b338db3.js",
+    "static/js/453.e542898d.chunk.js": "/Saif-khan7/cs-sample-app/static/js/453.e542898d.chunk.js",
+    "index.html": "/Saif-khan7/cs-sample-app/index.html",
+    "main.e6c13ad2.css.map": "/Saif-khan7/cs-sample-app/static/css/main.e6c13ad2.css.map",
+    "main.5b338db3.js.map": "/Saif-khan7/cs-sample-app/static/js/main.5b338db3.js.map",
+    "453.e542898d.chunk.js.map": "/Saif-khan7/cs-sample-app/static/js/453.e542898d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b338db3.js"
+  ]
+}
